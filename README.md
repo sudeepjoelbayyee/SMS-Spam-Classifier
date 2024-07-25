@@ -2,6 +2,9 @@
 
 This project aims to build a machine learning model that can accurately classify SMS messages as spam or ham (not spam). The model is trained on a dataset of SMS messages and utilizes natural language processing (NLP) techniques to extract relevant features.
 
+### Deployment: 
+- https://smsoremail-spam-classifier.streamlit.app/
+
 ### Project Structure
 
 - **spam.csv:** The dataset containing SMS messages labeled as spam or ham.
